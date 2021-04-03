@@ -64,6 +64,18 @@ Install Django REST framework
 pip install djangorestframework
 ```
 
+Install django-extensions
+
+```python
+pip install django-extensions
+```
+
+Install django-cors-headers
+
+```python
+pip install django-cors-headers 
+```
+
 ## Usage
 
 ## Commands
@@ -76,3 +88,5 @@ Django Install: <https://docs.djangoproject.com/en/3.1/intro/install/>
 Django API Reference: <https://docs.djangoproject.com/en/3.1/ref/>
 Django Topics: <https://docs.djangoproject.com/en/3.1/topics/>
 Django REST framework: <https://www.django-rest-framework.org/>
+Django-extensions: <https://django-extensions.readthedocs.io/en/latest/>
+Django-cors-Headers: <https://pypi.org/project/django-cors-headers/>
