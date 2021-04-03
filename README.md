@@ -64,7 +64,6 @@ Install Django REST framework
 pip install djangorestframework
 ```
 
-
 ## Usage
 
 ## Commands
